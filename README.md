@@ -9,7 +9,6 @@
 <a href="https://dev.to/abhishek_159" target="blank">
   <img align="left" width="80px"  src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" />
 </a>
-</p>
 <br />
 
 
