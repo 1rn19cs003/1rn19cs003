@@ -1,18 +1,14 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Abhishek!](https://1rn19cs003.github.io/abhishekjaiswal/)
 
-<a href="https://www.linkedin.com/in/abhishekjaiswal1308/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/Abhijaiswals">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:abhigrmr@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="https://twitter.com/Abhijaiswals" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Abhijaiswals" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishekjaiswal1308/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek jaiswal" height="30" width="40" /></a>
+<a href="mailto:abhigrmr@gmail.com" target="blank">
+  <img align="left" width="35px" src="https://img.icons8.com/color/48/000000/gmail--v2.png" />
 </a>
 <a href="https://dev.to/abhishek_159">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" width="80px"  src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" />
 </a>
-
+</p>
 <br />
 
 
